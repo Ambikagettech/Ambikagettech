@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ambika Mishra</h1>
-<img align="right" alt="Coding" width="400"src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 <h2 align="center">A passionate Java & DSA Developer from India</h2>
+<img align="right" alt="Coding" width="400"src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 
 - 🔭 I’m currently working on **DSA and JS**
 
